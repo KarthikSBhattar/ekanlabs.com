@@ -1,6 +1,4 @@
-# Untitled
-
-![Untitled](Untitled%2032ed947c60eb4be284d58e58e1bd69b4/Untitled.png)
+![Cafe meeting](https://file.notion.so/f/s/17f381ae-be40-4035-b910-698c623552e9/Untitled.png?id=bc0348d4-64b4-4520-a8d5-8f9b8fceaf25&table=block&spaceId=c4568a01-d3b3-479e-9314-43a3bd3b7481&expirationTimestamp=1686773930204&signature=oYuF-qBInYoEy8Jup2oGSMcFq-OSteCBUXPT98hSBOQ&downloadName=Untitled.png)
 
 # About the team
 
