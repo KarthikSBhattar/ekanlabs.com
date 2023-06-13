@@ -1,4 +1,4 @@
-![Cafe meeting](https://cdn.pixabay.com/photo/2019/02/21/19/00/restaurant-4011989_1280.jpg)
+![Cafe meeting](https://cdn.pixabay.com/photo/2020/03/30/10/18/electric-scooter-4983759_1280.jpg)
 
 # About the team
 
