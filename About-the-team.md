@@ -4,7 +4,7 @@
 
 ---
 
-Our team is comprised of 5 skilled individuals [Swami Bhattar](https://www.linkedin.com/in/swami-b-69368220/), [Shaun Georges](https://www.linkedin.com/in/shaun-georges-ba9aa711/), [Balaji Ramasamy](https://www.linkedin.com/in/balajiramaswamyramsol/), Karthik Bhattar, and Dr Neeraj.
+Our team is comprised of 5 skilled individuals [Swami Bhattar](https://www.linkedin.com/in/swami-b-69368220/), [Shaun Georges](https://www.linkedin.com/in/shaun-georges-ba9aa711/), Balaji Ramasamy, Karthik Bhattar, and Dr Neeraj.
 
 > “Coming together is the beginning. Keeping together is progress. Working together is success.”
 > 
@@ -24,8 +24,6 @@ A few of the companies he’s worked at are Accenture and Family Dollar as a pro
 ## ****Balaji Ramaswamy - Product Manager****
 
 Served as a product manager for a number of large clients, bringing their vision to life. Developed tech products from the ground up, from concept to completion, with an emphasis on user experience and customer satisfaction. Delivered successful results for clients on time and on budget, earning a reputation for excellence in product management.
-
-He has worked at RAMSOL for the past 19 years and is currently a Director at the company.
 
 ## Karthik Bhattar - Founder/Chief technical officer
 
