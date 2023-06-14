@@ -1,6 +1,6 @@
 # Products
 
-![Agri. portrait](https://file.notion.so/f/s/489ccbaa-9783-4933-92ac-d2f18e215e42/Untitled.png?id=027c5d4b-d1b4-47d8-928b-9cb4430e5bb9&table=block&spaceId=c4568a01-d3b3-479e-9314-43a3bd3b7481&expirationTimestamp=1686843463820&signature=FF1jdOGjuhuJtI1ue6yixeYXGbm3ydPNUHTg-QdR9x8&downloadName=Untitled.png)
+![Agri. portrait](https://cdn.pixabay.com/photo/2016/11/08/05/54/agriculture-1807581_1280.jpg)
 
 ## Introduction
 
