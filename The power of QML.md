@@ -1,5 +1,3 @@
-# Untitled
-
 ![https://media4.giphy.com/media/o65WgXSDBVY1G/giphy.gif?cid=7941fdc6p8thcgqxkkwljvupd0ez1weato6ylr9mjtgmc99k&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media4.giphy.com/media/o65WgXSDBVY1G/giphy.gif?cid=7941fdc6p8thcgqxkkwljvupd0ez1weato6ylr9mjtgmc99k&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 # Energy efficiency with QML
