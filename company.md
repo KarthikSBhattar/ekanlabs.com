@@ -2,9 +2,9 @@
 
 # Our company
 
-[Ekanlabs](http://www.ekanlabs.com) is a Quantum Machine Learning company that builds Quantum AI models and solutions to train custom models.
+[Ekan](http://www.ekan.io) is a Quantum computing company that builds Quantum AI models and other business solutions.
 
-> “Simulating the behavior of 100 billion neurons of human brain is not feasible by classical computer but quantum machine learning promises to fulfill that requirement.” - Amit Ray
+> “A human is a quantum supercomputer that has the ability to comprehend, master, and lead things on earth and in the skies.”
 > 
 
 ---
