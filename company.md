@@ -5,7 +5,6 @@
 [Ekan](http://www.ekan.io) is a Quantum computing company that builds Quantum AI models and other business solutions.
 
 > “A human is a quantum supercomputer that has the ability to comprehend, master, and lead things on earth and in the skies.”
-
 ---
 
 <aside>
